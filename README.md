@@ -5,11 +5,7 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.Scanner;
 
-/**
- *
- * @author 000501913
- */
-public class LibreriaParaTodos {
+publicic class LibreriaParaTodos {
 
 
 public class LibrosParaTodos {
